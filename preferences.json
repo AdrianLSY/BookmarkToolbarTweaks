@@ -1,0 +1,32 @@
+[
+    {
+        "property": "uc.bookmarks.center-toolbar",
+        "label": "Center the bookmarks toolbar",
+        "type": "checkbox",
+        "disabledOn": []
+    },
+    {
+        "property": "uc.bookmarks.hide-folder-icons",
+        "label": "Hide folder icons",
+        "type": "checkbox",
+        "disabledOn": []
+    },
+    {
+        "property": "uc.bookmarks.hide-folder-name",
+        "label": "Hide folder name",
+        "type": "checkbox",
+        "disabledOn": []
+    },
+    {
+        "property": "uc.bookmarks.hide-favicons",
+        "label": "Hide website icons",
+        "type": "checkbox",
+        "disabledOn": []
+    },
+    {
+        "property": "uc.bookmarks.hide-name",
+        "label": "Hide bookmarks name",
+        "type": "checkbox",
+        "disabledOn": []
+    }
+]
